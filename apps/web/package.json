@@ -10,11 +10,13 @@
   },
   "dependencies": {
     "@next-auth/prisma-adapter": "^1.0.7",
+    "blockly": "^12.2.0",
     "db": "file:../../packages/db",
     "ky": "^1.8.2",
     "next": "15.4.5",
     "next-auth": "^4.24.11",
     "react": "19.1.0",
+    "react-blockly": "^9.0.0",
     "react-dom": "19.1.0",
     "swr": "^2.3.4"
   },
