@@ -10,9 +10,11 @@
   },
   "dependencies": {
     "db": "file:../../packages/db",
+    "ky": "^1.8.2",
     "next": "15.4.5",
     "react": "19.1.0",
-    "react-dom": "19.1.0"
+    "react-dom": "19.1.0",
+    "swr": "^2.3.4"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
